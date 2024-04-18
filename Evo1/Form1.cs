@@ -74,7 +74,6 @@ namespace Evo1
                     }
                 }
             }
-            int stop = 0;
         }
 
         public void Crossing(int point)
@@ -134,7 +133,7 @@ namespace Evo1
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+/*        private void button1_Click(object sender, EventArgs e)
         {
             int number = Convert.ToInt32(textBox1.Text);
             int length = Convert.ToInt32(textBox2.Text);
@@ -171,10 +170,17 @@ namespace Evo1
             Mutation();
             label6.Text = population[0];
             label7.Text = population[1];
-        }
+        }*/
 
         private void button7_Click(object sender, EventArgs e)
         {
+            Generation(Convert.ToInt32(textBox4.Text));
+            for (int i = 0; i < Convert.ToInt32(textBox1.Text); i++)
+            {
+                Selection();
+                Crossing(Convert.ToInt32(textBox5.Text));
+                Mutation();
+            }
             label10.Text = Result().ToString();
         }
     }

@@ -14,3 +14,4 @@ C:\Users\boggz\source\repos\Evo1\Evo1\obj\Debug\net8.0-windows7.0\refint\Evo1.dl
 C:\Users\boggz\source\repos\Evo1\Evo1\obj\Debug\net8.0-windows7.0\Evo1.pdb
 C:\Users\boggz\source\repos\Evo1\Evo1\obj\Debug\net8.0-windows7.0\Evo1.genruntimeconfig.cache
 C:\Users\boggz\source\repos\Evo1\Evo1\obj\Debug\net8.0-windows7.0\ref\Evo1.dll
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Debug\net8.0-windows7.0\Evo1.sourcelink.json
