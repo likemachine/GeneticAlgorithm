@@ -81,6 +81,7 @@ namespace Evo1
             textBox5.Name = "textBox5";
             textBox5.Size = new System.Drawing.Size(100, 23);
             textBox5.TabIndex = 14;
+            textBox5.Text = "5";
             // 
             // label5
             // 
@@ -125,6 +126,7 @@ namespace Evo1
             textBox1.Name = "textBox1";
             textBox1.Size = new System.Drawing.Size(100, 23);
             textBox1.TabIndex = 22;
+            textBox1.Text = "100";
             // 
             // Form1
             // 
