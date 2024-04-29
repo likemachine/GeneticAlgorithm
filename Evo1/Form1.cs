@@ -133,45 +133,6 @@ namespace Evo1
             InitializeComponent();
         }
 
-/*        private void button1_Click(object sender, EventArgs e)
-        {
-            int number = Convert.ToInt32(textBox1.Text);
-            int length = Convert.ToInt32(textBox2.Text);
-            string digit = ConverterToBinary(number, length);
-            textBox3.Text = digit;
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            textBox1.Text = ConverterToDecimal(textBox3.Text).ToString();
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            Generation(Convert.ToInt32(textBox4.Text));
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            Selection();
-            label6.Text = population[0];
-            label7.Text = population[1];
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            Crossing(Convert.ToInt32(textBox5.Text));
-            label8.Text = population[0];
-            label9.Text = population[1];
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            Mutation();
-            label6.Text = population[0];
-            label7.Text = population[1];
-        }*/
-
         private void button7_Click(object sender, EventArgs e)
         {
             Generation(Convert.ToInt32(textBox4.Text));

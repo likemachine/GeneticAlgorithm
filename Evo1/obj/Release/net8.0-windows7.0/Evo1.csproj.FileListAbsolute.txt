@@ -1,0 +1,17 @@
+C:\Users\boggz\source\repos\Evo1\Evo1\bin\Release\net8.0-windows7.0\Evo1.exe
+C:\Users\boggz\source\repos\Evo1\Evo1\bin\Release\net8.0-windows7.0\Evo1.deps.json
+C:\Users\boggz\source\repos\Evo1\Evo1\bin\Release\net8.0-windows7.0\Evo1.runtimeconfig.json
+C:\Users\boggz\source\repos\Evo1\Evo1\bin\Release\net8.0-windows7.0\Evo1.dll
+C:\Users\boggz\source\repos\Evo1\Evo1\bin\Release\net8.0-windows7.0\Evo1.pdb
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\Evo1.Form1.resources
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\Evo1.csproj.GenerateResource.cache
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\Evo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\Evo1.AssemblyInfoInputs.cache
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\Evo1.AssemblyInfo.cs
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\Evo1.csproj.CoreCompileInputs.cache
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\Evo1.sourcelink.json
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\Evo1.dll
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\refint\Evo1.dll
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\Evo1.pdb
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\Evo1.genruntimeconfig.cache
+C:\Users\boggz\source\repos\Evo1\Evo1\obj\Release\net8.0-windows7.0\ref\Evo1.dll
